@@ -1,5 +1,5 @@
 def task():
-    tasks=[] #empty list
+    tasks=[]
     print("----Welcome to to do list----")
     total_task=int(input("Enter how many task you want to add:"))
     for i in range(1,total_task+1):
